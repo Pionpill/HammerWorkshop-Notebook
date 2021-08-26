@@ -1,1 +1,5 @@
 temp.*
+*.aux
+*.log
+*.out
+*.gz

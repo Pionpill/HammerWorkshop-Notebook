@@ -1,7 +1,7 @@
 <link rel=stylesheet href=style.css>
 
 # WorldEdit 常用指令
-## 1 参考文献
+## 1 `参考文献`
 ### 1.1 WorldEdit 简要说明
 > [WorldEdit Github 仓库](https://github.com/EngineHub/WorldEdit)  
 > [WorldEdit Documentation](https://worldedit.enginehub.org/en/latest/)
@@ -141,6 +141,9 @@
   | `/schem delete <filename>`        | 删除 schem 模型           | 文件名           | 可用 d 代替 delete   |
   | `/schematic save [-f] <filename>` | 保存 schem 模型           | -f：覆盖同名文件 |                      |
   | ``                                |                           |                  |                      |
+- 几种 obj 转 schem 模型 的方法
+  - [单色](https://drububu.com/miscellaneous/voxelizer/index.html?out=sch)
+  - [纹理](https://www.youtube.com/watch?v=aZxxwku85Jw&t=594s)
 
 ### 2.7 笔刷指令
 - 常用指令表
